@@ -1,2 +1,2 @@
 # profiles
-Disclosure of profile information
+Disclosure landscape of profile information
